@@ -1,4 +1,4 @@
-#### First Person Shooter from Scratch!
+#### First Person + Third Person Shooter from Scratch!
 
 With help from other Godot developer's YouTube Tutorials and Free 3D Models from Sketchfab.
 
